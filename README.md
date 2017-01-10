@@ -6,12 +6,12 @@ You can now start a swift project with a MVC structure. An organized start is a 
 **Summary of setup**
 This swift boilerplate is intended for programmers who code their User Interfaces programatically.
 
-# **Configuration** #
+# **Configuration** 
   * Used Cocoapods for dependency injection
-# **Dependencies** #
+# **Dependencies** 
   * Alamofire for Networking
   * Commented out some useful libraries
-# **Database configuration** #
+# **Database configuration** 
   * CoreData ready
 
 ### Who do I talk to? ###
